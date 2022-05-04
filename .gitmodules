@@ -4,3 +4,6 @@
 [submodule "synth-build"]
 	path = synth-build
 	url = https://github.com/synth-dev/synth-build.git
+[submodule "synth"]
+	path = synth
+	url = https://github.com/synth-dev/synth.git
