@@ -7,3 +7,6 @@
 [submodule "synth"]
 	path = synth
 	url = https://github.com/synth-dev/synth.git
+[submodule "synth-multiblocks"]
+	path = synth-multiblocks
+	url = https://github.com/synth-dev/synth-multiblocks.git
